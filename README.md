@@ -247,7 +247,7 @@ I mainly contributed to:
 
  
 
-<a href="YOUR_CAREER_COMPASS_LIVE_DEMO_URL">
+<a href="https://career-compass-1-6bow.onrender.com">
 <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit-2563EB?style=for-the-badge">
 </a>
 
